@@ -1,4 +1,4 @@
-### Hi there I am Perry Bates 👋
+## Hello, I'm Perry Bates 👋
 
 
 Here are some ideas to get you started:
